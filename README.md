@@ -32,7 +32,7 @@ pip2 install lolcat
 git clone https://github.com/RIGENIX-AKIL/Take-Down-Fighters
 
 
-Use:
+For USE and Open This Tool🔥:
 
 ls
 
